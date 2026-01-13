@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+li{
+	background-color: white;
+	list-style-type: none;
+}
+
+*{
+	font-family: intrinsic;
+	background-color: rgb(200,200,200);
+}
+
+h1, h2{
+	text-align: center;
+}
+
+.bg-white{
+	text-align: center;
+	background-color: white;
+}
+
+main{
+	border: 1px solid black;
+	background-color: white;
+	border-radius: 5px;
+}
+
+audio, video{
+	
+	background-color: white;
+	width: 94%;
+	padding: 20px;
+}
+
+ul{
+	background-color: white;
+	padding: 25px 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
